@@ -1,4 +1,4 @@
----
+profile/README.md---
 title: Reusing workflow configurations
 shortTitle: Reusing workflow configurations
 intro: Find information about avoiding duplication when creating a workflow by reusing existing workflows{% ifversion fpt or ghec %} and using YAML anchors and aliases{% endif %}.
